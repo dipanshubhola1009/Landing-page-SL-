@@ -75,15 +75,19 @@
 	margin: 0% 15%;
 }
 .testimon{
-	background-color: grey;
+	background-color: rgb(201, 212, 212);
 	display: block;
 	width: 300px;
 	min-width: 300px;
-	height: 250px;
 	box-shadow: 0px 4px 8px 0px white;
 	margin: auto;
 	margin-top: 50px;
 
+}
+
+.testimonImg{
+	border: 5px solid white;
+	margin: 15px 35%;
 }
 .topMargin{
 	margin-top: 100px;
